@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...read books
 - 🌱 I’m currently learning ... play basketball
 - 💞️ I’m looking to collaborate on ... music
-- 📫 How to reach me ...
+- 📫 How to reach me ... trought my social media
 - 😄 Pronouns: ...Dani
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... i love wash dishes
 
 <!---
 DanielaaRosales/DanielaaRosales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
