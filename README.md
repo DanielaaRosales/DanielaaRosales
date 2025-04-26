@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DanielaaRosales
-- 👀 I’m interested in ...read books
-- 🌱 I’m currently learning ... play basketball
-- 💞️ I’m looking to collaborate on ... music
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... trought my social media
 - 😄 Pronouns: ...Dani
-- ⚡ Fun fact: ... i love wash dishes
+- ⚡ Fun fact: ... 
 
 <!---
 DanielaaRosales/DanielaaRosales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
